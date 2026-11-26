@@ -4,9 +4,9 @@
 Writes one line to /output/entry.txt: the error message an AI agent shows
 when it runs out of tokens mid-sentence.
 
-The joke is self-demonstrating: the error message itself runs out of tokens
-mid-sentence, cutting off on "ran out of" -- the reader supplies the missing
-word ("tokens"). Error 402 (Payment Required) adds the flat tone of a real
+The gag proves itself: the error message runs dry on tokens
+mid-sentence, stopping at "ran out of" and leaving the reader to fill in
+the missing word ("tokens"). Error 402 (Payment Required) adds the flat tone of a real
 error: tokens are a paid resource, and the meter just ran out.
 
 Deterministic: no randomness, no network, no input. The same bytes every run.
