@@ -14,7 +14,7 @@ Deterministic: no randomness, no network, no input. The same bytes every run.
 
 import os
 
-ENTRY = "Error 402: out of tokens. This message was going to explain what went wrong, but it ran out of"
+ENTRY = "Error 402: out of tokens. This message was going to explain exactly what went wrong, but it ran out of"
 
 
 def main() -> None:
